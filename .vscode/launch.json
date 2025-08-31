@@ -7,11 +7,11 @@
     
 
         {
-            "name": "demo1",
+            "name": "demo2",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}/demo1.go"  //启动文件目录名
+            "program": "${workspaceFolder}"  //启动文件目录名
         }
     ]
 }
